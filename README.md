@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I love watching Spongebob Squarepants 🧽, and my favorite character is Squidward Tentpoles 🦑.
+
 <!--
 **patarmds/patarmds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
